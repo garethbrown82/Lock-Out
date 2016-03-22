@@ -1,0 +1,13 @@
+c:\users\gareth\documents\visual studio 2013\Projects\LockOut\LockOut\bin\Debug\LockOut.exe.config
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\bin\Debug\LockOut.exe
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\bin\Debug\LockOut.pdb
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.csprojResolveAssemblyReference.cache
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\MainWindow.baml
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\MainWindow.g.cs
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\App.g.cs
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut_MarkupCompile.cache
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.g.resources
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.Properties.Resources.resources
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.csproj.GenerateResource.Cache
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.exe
+C:\Users\Gareth\documents\visual studio 2013\Projects\LockOut\LockOut\obj\Debug\LockOut.pdb
